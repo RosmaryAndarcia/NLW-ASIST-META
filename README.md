@@ -98,13 +98,13 @@ A partir disso, o HTML é impactado visualmente.
   - Boolean: true | false
   - Objet
 
-#DOM
+# DOM
 
 - Document
 - Objet
 - Model
 
-#API
+# API
 - Application
 - Programming
 - Interface
@@ -121,7 +121,7 @@ A partir disso, o HTML é impactado visualmente.
 - Model
 - Gemini, OpenAI (chatGPT), Anthropic (Claude) ...
 
-#Agentes AI
+# Agentes AI
 
 - Tools (ferramentas): permitem uso de codigo, ou apps, ou qualquer informação extra
 - Melhor contexto
