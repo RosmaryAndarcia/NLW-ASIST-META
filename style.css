@@ -54,11 +54,13 @@ section>div {
 
 section h2 {
   letter-spacing: -0.47px;
+  text-align: center;
 }
 
 section p {
   letter-spacing: -0.18px;
   color: #a1a1aa;
+  text-align: center;
 }
 
 /* animation */
