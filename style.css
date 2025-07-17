@@ -13,7 +13,7 @@ body {
   background-position: top center;
   /* vertical, horizontal */
   background-color: #121214;
-  /* color HEX: RR, GG, BB*/
+  /* color (del 0 ate f) HEX: RR, GG, BB*/
   color: white;
 }
 
@@ -136,6 +136,7 @@ button:disabled {
 
 #aiResponse ul {
   padding-left: 1.5rem;
+  opacity: 0.8;
 }
 
 #aiResponse p {

@@ -22,7 +22,7 @@
   - Protocolo
   - Conjunto de regras
 - Methods HTTP (verbos): GET, Post, Patch/Put, Delete
-- Header (cabeçalhos): Instruçoes extras para cada chamada
+- Header (cabeçalhos): Instruçoes/Informações extras para cada chamada
 
 # URL
 
@@ -94,7 +94,7 @@ A partir disso, o HTML é impactado visualmente.
   - Reconhecimento de padrão
 - Tipos de dados
   - Number (numeros)
-  - String (textos) ("", '', ``)
+  - String (textos) (" ", ' ', ` `)
   - Boolean: true | false
   - Objet
 
